@@ -14,7 +14,7 @@ public class Main extends JPanel{
 	//-----set width, height, and name-----
 	private static final int width = 800;
 	private static final int height = 800;
-	private static final String name = "Vent Repair";
+	private static final String name = "";
 	
 	public static void main(String[] args) {
 		new Window(width, height, name);
